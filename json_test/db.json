@@ -1,0 +1,237 @@
+{
+  "cours": [
+    {
+      "id": 1,
+      "title": "development course development course development course",
+      "description": "From Classes To inheritance - OOP in-Depth for Python Programmers From Classes To inheritance - OOP in-Depth for Python Programmers From Classes To inheritance - OOP in-Depth for Python Programmers",
+      "img": "./img/images.png",
+      "language": "English",
+      "price": 100,
+      "stars": 4
+    },
+    {
+      "id": 2,
+      "title": "development course",
+      "description": "From Classes To inheritance - OOP in-Depth for Python Programmers",
+      "img": "./img/images.jpg",
+      "language": "English",
+      "price": 200,
+      "stars": 3
+    },
+    {
+      "id": 3,
+      "title": "development course",
+      "description": "From Classes To inheritance - OOP in-Depth for Python Programmers",
+      "img": "./img/images.png",
+      "language": "Français",
+      "price": 120,
+      "stars": 5
+    },
+    {
+      "id": 4,
+      "title": "development course",
+      "description": "From Classes To inheritance - OOP in-Depth for Python Programmers",
+      "img": "./img/images.jpg",
+      "language": "Français",
+      "price": 150,
+      "stars": 4
+    },
+    {
+      "id": 5,
+      "title": "development course",
+      "description": "From Classes To inheritance - OOP in-Depth for Python Programmers",
+      "img": "./img/Web-Development.jpg",
+      "language": "Français",
+      "price": 160,
+      "stars": 4
+    },
+    {
+      "id": 6,
+      "title": "development course",
+      "description": "From Classes To inheritance - OOP in-Depth for Python Programmers",
+      "img": "./img/images.jpg",
+      "language": "Français",
+      "price": 55,
+      "stars": 4
+    },
+    {
+      "id": 7,
+      "title": "development course",
+      "description": "From Classes To inheritance - OOP in-Depth for Python Programmers",
+      "img": "./img/Web-Development.jpg",
+      "language": "Français",
+      "price": 65,
+      "stars": 4
+    },
+    {
+      "id": 8,
+      "title": "development course",
+      "description": "From Classes To inheritance - OOP in-Depth for Python Programmers",
+      "img": "./img/images.png",
+      "language": "Français",
+      "price": 100,
+      "stars": 4
+    },
+    {
+      "id": 9,
+      "title": "development course",
+      "description": "From Classes To inheritance - OOP in-Depth for Python Programmers",
+      "img": "./img/images.jpg",
+      "language": "Français",
+      "price": 100,
+      "stars": 2
+    },
+    {
+      "id": 10,
+      "title": "development course",
+      "description": "From Classes To inheritance - OOP in-Depth for Python Programmers",
+      "img": "./img/images.jpg",
+      "language": "English",
+      "price": 100,
+      "stars": 4
+    },
+    {
+      "id": 11,
+      "title": "development course",
+      "description": "From Classes To inheritance - OOP in-Depth for Python Programmers",
+      "img": "",
+      "language": "Français",
+      "price": 100,
+      "stars": 4
+    },
+    {
+      "id": 12,
+      "title": "development course",
+      "description": "From Classes To inheritance - OOP in-Depth for Python Programmers",
+      "img": "./img/images.png",
+      "language": "Français",
+      "price": 120,
+      "stars": 1
+    },
+    {
+      "id": 13,
+      "title": "development course",
+      "description": "From Classes To inheritance - OOP in-Depth for Python Programmers",
+      "img": "",
+      "language": "العربية",
+      "price": 100,
+      "stars": 4
+    },
+    {
+      "id": 14,
+      "title": "development course",
+      "description": "From Classes To inheritance - OOP in-Depth for Python Programmers",
+      "img": "",
+      "language": "العربية",
+      "price": 100,
+      "stars": 4
+    },
+    {
+      "id": 15,
+      "title": "development course",
+      "description": "From Classes To inheritance - OOP in-Depth for Python Programmers",
+      "img": "",
+      "language": "العربية",
+      "price": 100,
+      "stars": 4
+    },
+    {
+      "id": 16,
+      "title": "development course",
+      "description": "From Classes To inheritance - OOP in-Depth for Python Programmers",
+      "img": "",
+      "language": "العربية",
+      "price": 100,
+      "stars": 4
+    },
+    {
+      "id": 17,
+      "title": "development course",
+      "description": "From Classes To inheritance - OOP in-Depth for Python Programmers",
+      "img": "./img/images.png",
+      "language": "English",
+      "price": 100,
+      "stars": 4
+    },
+    {
+      "id": 18,
+      "title": "development course",
+      "description": "From Classes To inheritance - OOP in-Depth for Python Programmers",
+      "img": "./img/images.png",
+      "language": "English",
+      "price": 100,
+      "stars": 4
+    },
+    {
+      "id": 19,
+      "title": "development course",
+      "description": "From Classes To inheritance - OOP in-Depth for Python Programmers",
+      "img": "./img/images.png",
+      "language": "English",
+      "price": 100,
+      "stars": 4
+    },
+    {
+      "id": 20,
+      "title": "development course",
+      "description": "From Classes To inheritance - OOP in-Depth for Python Programmers",
+      "img": "./img/images.jpg",
+      "language": "العربية",
+      "price": 100,
+      "stars": 4
+    },
+    {
+      "id": 30,
+      "title": "development course",
+      "description": "From Classes To inheritance - OOP in-Depth for Python Programmers",
+      "img": "./img/images.jpg",
+      "language": "العربية",
+      "price": 100,
+      "stars": 4
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "aze@gmail.com",
+      "password": "A2a@mapa"
+    },
+    {
+      "id": 2,
+      "email": "azd@gmail.com",
+      "password": "A1a@mapa"
+    },
+    {
+      "id": 3,
+      "email": "azh@gmail.com",
+      "password": "A3a@mapa"
+    },
+    {
+      "id": 4,
+      "email": "azety@gmail.com",
+      "password": "A4a@mapa"
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "email": "aze@gmail.com",
+      "password": "A2a@mapa",
+      "id": 9
+    },
+    {
+      "email": "aze@gmail.com",
+      "password": "A2a@mapa",
+      "id": 10
+    }
+  ]
+}

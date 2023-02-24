@@ -1,0 +1,20 @@
+.haeder-silder1{
+    display: flex;
+    justify-content: space-around;
+}
+.haeder-silder1 .right-side{
+    background: #AA9D9D;
+    border-radius:50%;
+    height: 100px;
+    width: 100px;
+}
+.haeder-silder1 p {
+    color: #1F9450;
+}
+.haeder-silder1 h1 {
+
+    color: #152D5D;
+   font-style: italic;
+   font-size: xx-large;
+}
+

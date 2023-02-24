@@ -1,0 +1,14 @@
+body{
+    background-color: #efffff9c;
+    
+
+
+
+}
+.paymment{
+  
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: center ;
+    
+}
